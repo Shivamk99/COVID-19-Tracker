@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site](https://covid-19trackersmiley.netlify.app)
+### [Live Site](https://react-covid-19-tracker-application)
 
 [
 ![COVID-19 Tracker](https://user-images.githubusercontent.com/50996696/96727897-339dbc00-13d1-11eb-9472-65244f3a40b1.png)
