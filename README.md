@@ -8,10 +8,11 @@
    - Chart: Used for Bar or Line graph
    - CountryPicker: List of the countries.
 2. **Other Dependencies:**
-   - @material-ui/core: used for designing purposes.
-   - react-countup: to keep the total count of both infected and death.
-   - react-chartjs-2: chart.js is one of the packages which makes the creation of charts and graphs very easy and
-   - other dependencies like react..
+   - ```npm i react-countup react-chartjs-2 @material-ui/core```
+      - @material-ui/core: used for designing purposes.
+      - react-countup: to keep the total count of both infected and death.
+      - react-chartjs-2: chart.js is one of the packages which makes the creation of charts and graphs very easy and
+      - other dependencies like react..
 3. [API used](https://covid19.mathdro.id/api)
 4. To run this project install the packages and then ```npm start``` 
 
